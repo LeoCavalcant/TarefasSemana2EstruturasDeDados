@@ -1,2 +1,0 @@
-# TarefasSemana2EstruturasDeDados
-Pequena tarefa
